@@ -109,8 +109,6 @@ python main.py
 
 ## 📸 Screenshots
 
-> Add your screenshots in `/screenshots` folder
-
 * Live Scan Interface
 * Risk Table
 * Dashboard Graph
