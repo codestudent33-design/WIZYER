@@ -1,0 +1,40 @@
+# Python
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+
+venv/
+.env/
+
+# VS Code
+
+.vscode/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+*.log
+
+# Temporary files
+
+*.tmp
+
+# Cache
+
+.cache/
+
+# Jupyter (if used)
+
+.ipynb_checkpoints/
+
+# Report outputs (optional)
+
+*.pdf
