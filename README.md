@@ -152,6 +152,11 @@ This project is licensed under the MIT License.
 ## 📄 Project Report
 Detailed documentation is available in the docs folder.
 
+## Download
+
+👉 Download the latest version from Releases:
+https://github.com/YOUR-USERNAME/YOUR-REPO/releases
+
 ## 👨‍💻 Author
 
 Developed by **Ritik**
