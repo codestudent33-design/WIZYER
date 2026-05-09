@@ -154,8 +154,7 @@ Detailed documentation is available in the docs folder.
 
 ## Download
 
-👉 Download the latest version from Releases:
-https://github.com/YOUR-USERNAME/YOUR-REPO/releases
+👉 [Download WIZYER v1.0](https://github.com/codestudent33-design/WIZYER/releases)
 
 ## 👨‍💻 Author
 
